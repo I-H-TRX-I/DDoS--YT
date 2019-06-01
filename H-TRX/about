@@ -1,0 +1,47 @@
+#!/bin/bash
+BLACK='\e[0;30m'
+BLUE='\e[0;34m'
+GREEN='\e[0;32m'
+CYAN='\e[0;36m'
+RED='\e[0;31m'
+PURPLE='\e[0;35m'
+BROWN='\e[0;33m'
+LIGHTGRAY='\e[0;37m'
+DARKGRAY='\e[1;30m'
+LIGHTBLUE='\e[1;34m'
+LIGHTGREEN='\e[1;32m'
+LIGHTCYAN='\e[1;36m'
+LIGHTRED='\e[1;31m'
+LIGHTPURPLE='\e[1;35m'
+YELLOW='\e[1;33m'
+WHITE='\e[1;37m'
+NC='\e[0m'              # No Color
+clear
+echo -e "${LIGHTCYAN}"
+echo "+===============================+"
+echo "+-------------------------------+"
+echo "+                               +"  
+echo "+        H-TRX & NAHINCK        +" 
+echo "+                               +"  
+echo "+                               +"
+echo "+-------------------------------+"
+echo "+===============================+"
+echo -e "${LIGHTCYAN}[Nombre del poyecto] ${LIGHTPURPLE}ツ◀♛BlackPrinces♛▶ツ     "
+echo -e "${LIGHTCYAN}[Version] ${LIGHTRED}   HTRX & NAHINCK Version 1.0     "
+echo -e "${LIGHTCYAN}[Fecha] ${LIGHTRED} 01-4-19     "
+echo -e "${LIGHTCYAN}[Ocupamiento] ${LIGHTRED}         ~201KB    "
+echo -e " "
+echo -e "${LIGHTCYAN}[Desarrollado por] ${LIGHTRED} HTRX & NAHINCK    "
+echo -e "${LIGHTCYAN}[Descifrado] ${LIGHTRED}        HTRX & NAHINCK   "
+echo -e "${LIGHTCYAN}[Probador beta] ${LIGHTRED}  HTRX & NAHINCK   "
+echo -e ""
+echo -e "${LIGHTCYAN}[Renuncia] "
+echo -e "${LIGHTRED}"
+echo -e "No nos hacemos responsables de lo que utiliza esta herramienta para lograr."
+echo -e "Esta herramienta esta diseñada para uso privado / personal para realizar pruebas de estres en " 
+echo -e "Equipo de red. Puede ser ilegal usar este software para otros fines"
+echo -e "que su uso previsto"
+echo -e ""
+echo -e "NO REDISTRUZCA NI ALTERE A LOS PRINCIPES OSCUROS!"
+read
+
